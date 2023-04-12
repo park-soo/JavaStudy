@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kosmo
+ *
+ */
+module javastudy {
+}
